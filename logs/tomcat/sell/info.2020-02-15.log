@@ -1,0 +1,363 @@
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 17952 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 65ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.886 seconds (JVM running for 8.547)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 20680 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 96ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.947 seconds (JVM running for 8.285)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 2224 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 7.075 seconds (JVM running for 8.381)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 8188 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 82ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.919 seconds (JVM running for 8.208)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 20856 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 106ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.571 seconds (JVM running for 7.846)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 10108 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.675 seconds (JVM running for 7.995)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 18800 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 125ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.668 seconds (JVM running for 8.027)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 15896 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 120ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 7.545 seconds (JVM running for 8.919)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 15412 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 108ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.892 seconds (JVM running for 8.196)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 17360 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 113ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 7.057 seconds (JVM running for 8.458)
+SQL Error: 1146, SQLState: 42S02
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 7668 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 85ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.562 seconds (JVM running for 7.902)
+SQL Error: 1146, SQLState: 42S02
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 16072 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.71 seconds (JVM running for 8.207)
+SQL Error: 1146, SQLState: 42S02
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 11460 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 83ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 6.166 seconds (JVM running for 7.572)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 5328 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 116ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 9.895 seconds (JVM running for 11.784)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 3104 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 125ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 9.152 seconds (JVM running for 10.835)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 15884 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 83ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 9.653 seconds (JVM running for 11.202)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 10200 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+Starting ProductCategoryRepositoryTest on DESKTOP-3FTN8A9 with PID 17148 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 82ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryRepositoryTest in 7.906 seconds (JVM running for 10.569)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m31s467ms718µs).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

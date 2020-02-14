@@ -1,0 +1,15 @@
+Starting LoggerTest on DESKTOP-3FTN8A9 with PID 11080 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 4.195 seconds (JVM running for 5.685)
+info...
+error...
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting LoggerTest on DESKTOP-3FTN8A9 with PID 18484 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 3.805 seconds (JVM running for 5.207)
+info...
+Shutting down ExecutorService 'applicationTaskExecutor'

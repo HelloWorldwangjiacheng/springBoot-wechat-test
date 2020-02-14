@@ -1,0 +1,8 @@
+2020-02-14 23:02:56.549 info 22196 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on DESKTOP-3FTN8A9 with PID 22196 (started by w1586 in C:\Users\w1586\IdeaProjects\sell)
+2020-02-14 23:02:56.552 info 22196 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2020-02-14 23:02:58.015 info 22196 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.imooc.sell]' package. Please check your configuration.
+2020-02-14 23:02:59.508 info 22196 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-14 23:03:00.418 info 22196 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 4.557 seconds (JVM running for 6.435)
+2020-02-14 23:03:00.847 info 22196 --- [main] com.imooc.sell.LoggerTest                : info...
+2020-02-14 23:03:00.848 info 22196 --- [main] com.imooc.sell.LoggerTest                : error...
+2020-02-14 23:03:00.871 info 22196 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
