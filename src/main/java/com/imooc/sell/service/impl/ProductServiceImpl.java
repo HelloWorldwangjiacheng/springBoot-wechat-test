@@ -1,7 +1,10 @@
 package com.imooc.sell.service.impl;
 
 import com.imooc.sell.dataobject.ProductInfo;
+import com.imooc.sell.dto.CartDTO;
 import com.imooc.sell.enums.ProductStatusEnum;
+import com.imooc.sell.enums.ResultEnum;
+import com.imooc.sell.exception.SellException;
 import com.imooc.sell.repository.ProductInfoRepository;
 import com.imooc.sell.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,6 +12,7 @@ import org.springframework.data.domain.Example;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
@@ -23,7 +27,14 @@ public class ProductServiceImpl implements ProductService {
         ProductInfo productInfo = new ProductInfo();
         productInfo.setProductId(productId);
         Example<ProductInfo> example = Example.of(productInfo);
-        return repository.findOne(example).get();
+        ProductInfo info = null;
+        try {
+             info = repository.findOne(example).get();
+        }catch (Exception e){
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+
+        return info;
     }
 
     @Override
@@ -39,5 +50,50 @@ public class ProductServiceImpl implements ProductService {
     @Override
     public ProductInfo save(ProductInfo productInfo) {
         return repository.save(productInfo);
+    }
+
+    @Override
+    @Transactional
+    public void increaseStock(List<CartDTO> cartDTOS) {
+        for (CartDTO cartDTO : cartDTOS){
+            ProductInfo productInfo = new ProductInfo();
+            productInfo.setProductId(cartDTO.getProductId());
+            Example<ProductInfo> example = Example.of(productInfo);
+
+            ProductInfo productInfo1 = repository.findOne(example).get();
+
+            if (productInfo1 == null){
+                throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+            }
+
+            int result = productInfo1.getProductStock() + cartDTO.getProductQuantity();
+
+            productInfo1.setProductStock(result);
+            repository.save(productInfo1);
+        }
+    }
+
+    @Override
+    @Transactional
+    public void decreaseStock(List<CartDTO> cartDTOS) {
+        for (CartDTO cartDTO : cartDTOS){
+            ProductInfo productInfo = new ProductInfo();
+            productInfo.setProductId(cartDTO.getProductId());
+            Example<ProductInfo> example = Example.of(productInfo);
+
+            ProductInfo productInfo1 = repository.findOne(example).get();
+
+            if (productInfo1 == null){
+                throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+            }
+
+            int result = productInfo1.getProductStock() - cartDTO.getProductQuantity();
+            if (result < 0){
+                throw new SellException(ResultEnum.PRODUCT_STOCK_ERROR);
+            }
+
+            productInfo1.setProductStock(result);
+            repository.save(productInfo1);
+        }
     }
 }

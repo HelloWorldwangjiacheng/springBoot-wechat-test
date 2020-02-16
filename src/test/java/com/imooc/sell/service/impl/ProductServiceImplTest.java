@@ -50,13 +50,13 @@ public class ProductServiceImplTest {
     @Test
     public void save() throws Exception {
         ProductInfo productInfo = new ProductInfo();
-        productInfo.setProductId("123457");
-        productInfo.setProductName("皮皮虾");
-        productInfo.setProductPrice(new BigDecimal(13.2));
+        productInfo.setProductId("123458");
+        productInfo.setProductName("山东水饺");
+        productInfo.setProductPrice(new BigDecimal(15.0));
         productInfo.setProductStock(100);
-        productInfo.setProductDescription("很好吃的虾");
+        productInfo.setProductDescription("肉多量大");
         productInfo.setProductIcon("https://avatars1.githubusercontent.com/u/40201433?v=4");
-        productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
+        productInfo.setProductStatus(ProductStatusEnum.UP.getCode());
         productInfo.setCategoryType(2);
 
         ProductInfo save = productService.save(productInfo);
